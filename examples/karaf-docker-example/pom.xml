@@ -36,6 +36,8 @@
         <module>karaf-docker-example-app</module>
         <module>karaf-docker-example-static-dist</module>
         <module>karaf-docker-example-dynamic-dist</module>
+        <module>karaf-docker-example-startup-app</module>
+        <module>karaf-docker-example-startup-feature</module>
     </modules>
 
 </project>
