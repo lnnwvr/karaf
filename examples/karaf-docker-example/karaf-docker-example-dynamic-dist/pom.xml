@@ -123,6 +123,7 @@
                     </installedFeatures>
                     <startupFeatures>
                         <feature>eventadmin</feature>
+                        <feature>karaf-docker-example-startup-app-feature</feature>
                     </startupFeatures>
                     <bootFeatures>
                         <feature>wrap</feature>
